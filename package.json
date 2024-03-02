@@ -1,0 +1,23 @@
+{
+  "name": "inish-gg",
+  "version": "1.0.0",
+  "description": "JS class for inish game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melovesb2000/inish.git"
+  },
+  "dependencies": {
+    "cypher-revila": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melovesb2000/inish/issues"
+  },
+  "homepage": "https://github.com/melovesb2000/inish#readme"
+}
