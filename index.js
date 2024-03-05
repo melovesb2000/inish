@@ -6,7 +6,6 @@ class GameFinisher {
     finishGame() {
       this.isGameFinished = true;
       console.log('Game is finished!');
-      // Additional logic to perform when the game is finished
     }
   
     restartGame() {
